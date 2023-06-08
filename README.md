@@ -7,7 +7,7 @@
   <img src="https://komarev.com/ghpvc/?username=medipanshu&style=flat-square&color=blue" alt=""/>
 </div>
 <br/>
-<img src="./Assets/logo.png" alt="ML Banner"/>
+<img src="./Assets/banner.png" alt="ML Banner"/>
 <br/>
 
 Artificial Intelligence & Machine Learning Enthusiastic<br/>
