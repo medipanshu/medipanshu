@@ -8,7 +8,7 @@
 </div>
 <br/>
 
-![Ml banner](./Assets/banner.png)
+![Ml banner](./banner.png)
 <br>
 
 Artificial Intelligence & Machine Learning Enthusiast<br/>
