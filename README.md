@@ -7,10 +7,11 @@
   <img src="https://komarev.com/ghpvc/?username=medipanshu&style=flat-square&color=blue" alt=""/>
 </div>
 <br/>
-<img src="./Assets/banner.png" alt="ML Banner"/>
-<br/>
 
-Artificial Intelligence & Machine Learning Enthusiastic<br/>
+![alt text](./Assets/banner.png)
+<br>
+
+Artificial Intelligence & Machine Learning Enthusiast<br/>
 ____
 As a Machine Learning Engineer, I am passionate about using cutting-edge technology to solve complex problems and drive innovation. My strong background in programming, data analysis, and statistical modeling enables me to design and implement advanced algorithms that improve efficiency and accuracy. I excel in collaborating with cross-functional teams in fast-paced environments to deliver solutions that meet business objectives. Let's connect and explore how we can leverage machine learning to transform your organization.<br/>
 
@@ -37,7 +38,6 @@ ____
 [![twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/medipanshu)
 [![mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dipanshubsf@gmail.com)
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/dipansh.u/)
-
 
 ____
 ## ⚙ Languages and Tools:
